@@ -72,4 +72,7 @@ GraphQL API follows a similar structure to a REST API. However, there are differ
     If you've set up the GraphQL server correctly, you can access the GraphiQL UI to test your queries and mutations at:
 
 http://localhost:4000/graphql
+#คำอธิบาย เกี่ยวกับ Graphql
+   https://chatgpt.com/share/67e80991-bdbc-8001-b9b7-a2611d1edc3c 
+
 
