@@ -39,7 +39,7 @@ Create an index.js file in the root directory to set up the basic GraphQL server
 # API Usage
 GraphQL API follows a similar structure to a REST API. However, there are differences in the way the queries and mutations are structured.
 
-###Step 1: Query (GET)
+### Step 1: Query (GET)
             In GraphQL, Query represents the equivalent of a GET request in REST.
             
             For example, to get the information of a table by its id, you can send the following query:
@@ -50,7 +50,7 @@ GraphQL API follows a similar structure to a REST API. However, there are differ
                 age
               }
             }
-###Step 2: Mutation (PUT, UPDATE, DELETE)
+### Step 2: Mutation (PUT, UPDATE, DELETE)
             In GraphQL, Mutation represents the equivalent of PUT, UPDATE, and DELETE requests in REST.
             
             For example, to update a user's information, you would send a mutation like this:
@@ -71,7 +71,7 @@ GraphQL API follows a similar structure to a REST API. However, there are differ
     Step 2: Access GraphiQL UI
     If you've set up the GraphQL server correctly, you can access the GraphiQL UI to test your queries and mutations at:
 
-#คำอธิบาย เกี่ยวกับ Graphql
+# คำอธิบาย เกี่ยวกับ Graphql
    https://chatgpt.com/share/67e80991-bdbc-8001-b9b7-a2611d1edc3c 
 
 
